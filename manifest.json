@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Spread The Love",
-    "description": "Replaces all the negative words with the positive ones to promote a clean web experience",
+    "description": "Chrome extension that tries to replace the negative words with positive ones to promote a clean web experience",
     "version": "2",
     "content_scripts": [
         {
