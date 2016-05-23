@@ -2,4 +2,6 @@
 
 2015
 
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+Source code for a chrome extension that tries to replace the negative words with positive ones to promote a clean web experience.
+
+http://www.sukhpalsaini.com
